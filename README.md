@@ -23,3 +23,8 @@ The Mini-Max Sum challenge requires finding the minimum and maximum sums possibl
 
 ```
 ### Output:
+``` java
+
+10 14
+
+```
