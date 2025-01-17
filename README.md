@@ -1,1 +1,1 @@
-# Mini-Max-Sum-Java
+# 📌 Mini-Max Sum Challenge with Java
