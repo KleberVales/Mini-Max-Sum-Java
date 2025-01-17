@@ -28,3 +28,4 @@ The Mini-Max Sum challenge requires finding the minimum and maximum sums possibl
 10 14
 
 ```
+## 🔍 Explanation
