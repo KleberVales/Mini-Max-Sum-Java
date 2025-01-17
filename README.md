@@ -17,3 +17,8 @@ The Mini-Max Sum challenge requires finding the minimum and maximum sums possibl
 ## ✅ Example
 
 ### Input:
+``` java
+
+1 2 3 4 5
+
+```
