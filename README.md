@@ -10,5 +10,5 @@ The Mini-Max Sum challenge requires finding the minimum and maximum sums possibl
 
 ## 📤 Output
 
-* Two space-separated integers:
-  ** Minimum sum (sum of the smallest four numbers).
+- Two space-separated integers:
+  * Minimum sum (sum of the smallest four numbers).
