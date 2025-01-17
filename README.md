@@ -7,3 +7,5 @@ The Mini-Max Sum challenge requires finding the minimum and maximum sums possibl
 ## 📥 Input
 
 * A single line containing five space-separated integers.
+
+## 📤 Output
