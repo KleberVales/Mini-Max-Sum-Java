@@ -15,3 +15,5 @@ The Mini-Max Sum challenge requires finding the minimum and maximum sums possibl
   * Maximum sum (sum of the largest four numbers).
 
 ## ✅ Example
+
+### Input:
