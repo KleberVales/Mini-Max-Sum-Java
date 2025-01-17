@@ -36,3 +36,4 @@ The Mini-Max Sum challenge requires finding the minimum and maximum sums possibl
   * Excluding 3: 1 + 2 + 4 + 5 = 12
   * Excluding 4: 1 + 2 + 3 + 5 = 11
   * Excluding 5: 1 + 2 + 3 + 4 = 10
+- Minimum sum = 10, Maximum sum = 14.
