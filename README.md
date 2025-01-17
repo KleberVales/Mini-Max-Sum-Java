@@ -9,3 +9,5 @@ The Mini-Max Sum challenge requires finding the minimum and maximum sums possibl
 * A single line containing five space-separated integers.
 
 ## 📤 Output
+
+* Two space-separated integers:
